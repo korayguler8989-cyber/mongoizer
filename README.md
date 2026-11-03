@@ -1,4 +1,4 @@
-# Mongoizer
+# Mongoizer exit
 > Please support this project by simply putting a Github star. Share this library with friends on Twitter and everywhere else you can.
 
 **`Mongoizer`** is a lightweight library to use [MongoDB] with .NET, allowing basic CRUD operations by implementing the repository pattern on the top of [MongoDB .NET driver].
